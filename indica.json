@@ -1,0 +1,33 @@
+
+
+
+
+[ {
+  "IndicadorCod" : "0001344",
+  "IndicadorDsg" : "Casos de SIDA (Ano de diagnóstico - N.º) por Sexo; Anual - INSA, Morbilidade por HIV/SIDA",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0001344&lingua=PT",
+  "DataExtracao" : "2020-05-27T15:14:00.512+01:00",
+  "DataUltimoAtualizacao" : "2018-12-03",
+  "UltimoPref" : "2017",
+  "Dados" : {
+    "2017" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "valor" : "234"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "valor" : "170"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "valor" : "64"
+    } ]
+  }
+} ]
