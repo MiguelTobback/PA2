@@ -1,6 +1,0 @@
-1- https://github.com/dssg-pt/covid19pt-data
-2- A nossa escolha incide sobre a temática generalizada da saúde, nomeadamente nos dados referentes ao Covid-19, uma vez que se apresenta algo bastante atual e interessante para a população em geral.
-3- Consultar o ficheiro : "README-ANARITAHUGOMIGUELTOBBACK.md"
-4- Para carregar o conjunto de dados utilizar o seguinte código: data = open("data.csv","r")
-   Para apresentar as 10 primeiras linhas do conjunto de dados utilizar o seguinte código: print(data.head(9))
-5- O ficheiro CSV recorre a dados do tipo DataFrame ou TextParser (de acordo com a página fornecida pelo professor: "https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html")
