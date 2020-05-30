@@ -4,7 +4,7 @@
 #### Fonte dos dados: Direcção Geral de Saúde - Ministério da Saúde Português, através do dashboard do COVID-19 (aqui e dos relatórios de situação publicados diariamente desde 03/03/2020. 
 #### Dados de casos confirmados por concelho: Apesar da DGS estar actualmente a fornecer dados de casos confirmados por concelho, optamos por não os incluir (assim como recursos geográficos complementares) em virtude da incerteza metodológica e do grau de incompletude que actualmente os caracteriza. Iremos rever esta decisão à medida que a situação se desenvolve.
 
-## Contexto ## 
+## Contexto
 
 #### Embora a comunicação e partilha de dados por parte do Ministério de Saúde Português tenha melhorado consideravelmente ao longo da crise do COVID-19, ainda está longe de ideal (havendo a destacar o exemplo do repositório da Protecção Civil Italiana no GitHub). A informação disponibilizada pela Direcção Geral de Saúde (DGS), para além de não ter o nível de granularidade da das autoridades italianas, também não é disponibilizada em formatos abertos e facilmente inspeccionáveis/manipuláveis. Ficam assim dificultadas tarefas de análise, modelação e visualização por parte da comunidade (quer mais informal, quer mais académica/industrial) disposta a colaborar no combate à pandemia com as ferramentas que conhece: as de análise de dados.
 
