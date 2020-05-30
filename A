@@ -1,6 +1,16 @@
 1- https://github.com/dssg-pt/covid19pt-data
-2- A nossa escolha incide sobre a temática generalizada da saúde, nomeadamente nos dados referentes ao Covid-19.
+2- A nossa escolha incide sobre a temática generalizada da saúde, nomeadamente nos dados referentes ao Covid-19, uma vez que se apresenta algo bastante atual e interessante para a população em geral.
 3- 
 4- Para carregar o conjunto de dados utilizar o seguinte código: data = open("data.csv","r")
    Para apresentar as 10 primeiras linhas do conjunto de dados utilizar o seguinte código: print(data.head(9))
 5- O ficheiro CSV recorre a dados do tipo DataFrame ou TextParser
+
+
+
+1) O URL para o conjunto de dados;
+2) Fundamentem a escolha deste conjunto de dados;
+3) Escrevam um explicação do conjunto de dados, um Dicionário dos dados, que deve ficar no
+Readme do repositório.
+4) Escrevam o código que carrega o conjunto de dados usando a função read_csv e mostrem as
+10 primeiras linhas do conjunto de dados.
+5) Qual é o tipo de dados de cada atributo?
